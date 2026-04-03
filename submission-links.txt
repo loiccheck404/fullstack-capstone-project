@@ -1,0 +1,4 @@
+user-story.md: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/user-story.md
+app.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-backend/app.js
+giftRoutes.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-backend/routes/giftRoutes.js
+db.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-backend/models/db.js
