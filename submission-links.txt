@@ -10,3 +10,9 @@ home.html: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/
 home.css: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/public/static/home.css
 home.html: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/public/home.html
 home.css: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/public/static/home.css
+MainPage.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/src/components/MainPage/MainPage.js
+Navbar.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/src/components/Navbar/Navbar.js
+RegisterPage.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/src/components/RegisterPage/RegisterPage.js
+LoginPage.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/src/components/LoginPage/LoginPage.js
+DetailsPage.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/src/components/DetailsPage/DetailsPage.js
+SearchPage.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/src/components/SearchPage/SearchPage.js
