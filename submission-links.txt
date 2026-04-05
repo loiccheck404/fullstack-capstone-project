@@ -2,3 +2,11 @@ user-story.md: https://github.com/loiccheck404/fullstack-capstone-project/blob/m
 app.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-backend/app.js
 giftRoutes.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-backend/routes/giftRoutes.js
 db.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-backend/models/db.js
+searchRoutes.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-backend/routes/searchRoutes.js
+sentiment/index.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/sentiment/index.js
+home.html: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/public/home.html
+home.css: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/public/static/home.css
+home.html: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/public/home.html
+home.css: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/public/static/home.css
+home.html: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/public/home.html
+home.css: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/public/static/home.css
