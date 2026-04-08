@@ -16,3 +16,5 @@ RegisterPage.js: https://github.com/loiccheck404/fullstack-capstone-project/blob
 LoginPage.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/src/components/LoginPage/LoginPage.js
 DetailsPage.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/src/components/DetailsPage/DetailsPage.js
 SearchPage.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-frontend/src/components/SearchPage/SearchPage.js
+authRoutes.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-backend/routes/authRoutes.js
+authRoutes.js: https://github.com/loiccheck404/fullstack-capstone-project/blob/main/giftlink-backend/routes/authRoutes.js
