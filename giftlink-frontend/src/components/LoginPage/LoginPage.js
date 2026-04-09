@@ -1,13 +1,34 @@
 import React, { useState } from "react";
 import "./LoginPage.css";
+import { useNavigate } from "react-router-dom";
+import { urlConfig } from "../../config";
 
 function LoginPage() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
+  const navigate = useNavigate();
+
   const handleLogin = async (e) => {
     e.preventDefault();
-    console.log("Inside handleLogin");
+    try {
+      const response = await fetch(`${urlConfig.backendUrl}/api/auth/login`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ email, password }),
+      });
+      const json = await response.json();
+      if (json.authtoken) {
+        sessionStorage.setItem("auth-token", json.authtoken);
+        sessionStorage.setItem("name", json.userName);
+        sessionStorage.setItem("email", json.userEmail);
+        navigate("/app");
+      }
+    } catch (e) {
+      console.log("Error: ", e);
+    }
   };
 
   return (
